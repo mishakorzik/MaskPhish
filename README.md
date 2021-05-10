@@ -15,20 +15,20 @@
 
 * `pkg install git`
 * `git clone https://github.com/mishakorzik/Free-Proxy` 
-* `cd Free-Proxy`
+* `cd Mask-Phish`
 
 ---
 ## Start Mask-Phish Termux and Linux
 
 #### Enter a command to start the Mask-Phish.
 
-* `python2 Free-Proxy.py`
+* `bash Mask-Phish.sh`
 
 #### Everything is ready!  You can now disguise the address
 ---
 ## Screenshot
 
-#### here you can see a screenshot of the proxy
+#### here you can see a screenshot of the Mask-Phish
 <br>
 <p align="center">
 <img width="49.0%" src="IMG_20210510_150717.jpg"/> 
