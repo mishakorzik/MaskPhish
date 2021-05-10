@@ -3,7 +3,7 @@ sleep 1
 echo    "|-----------[base installing]-----------|"
 sleep 1
 ORANGE="$(printf '\033[33m')" ${ORANGE}
-ORANGE="$(printf '\033[33m')" ${ORANGE}
+${ORANGE}
 echo "|----------[Developer: mishakorzhik]----------|"
 sleep 2
 pkg update
