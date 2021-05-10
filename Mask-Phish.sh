@@ -8,9 +8,9 @@ url_checker() {
 }
 toilet -F gay MaskPhish
 echo ""
-echo "    ###########################"
-echo "    # Developer: mishakorzhik #"
-echo "    ###########################"
+echo "          ###########################"
+echo "          # Developer: mishakorzhik #"
+echo "          ###########################"
 echo ""
 echo -n "Paste Phishing URL here (with http or https): "
 read phish
