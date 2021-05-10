@@ -33,10 +33,16 @@
 <p align="center">
 <img width="90.0%" src="IMG_20210510_231544.jpg"/> 
 </p>
+
 ---
 ## Report bugs
 
 ###### By mishakorzhik: Report bug: misakorzik528@gmail.com
+
+--- 
+## Find me on:
+
+<img width="50.0%" src="IMG_20210510_233105.png"/> 
 
 
 
