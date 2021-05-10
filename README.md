@@ -42,7 +42,9 @@
 --- 
 ## Find me on:
 
-<img width="50.0%" src="IMG_20210510_233105.png"/> 
+#### Tranks for read my site.
+
+<img width="50.0%" src="IMG_20210510_233105.png"/> <img width="50.0%" src="1620678554143.png"/> 
 
 
 
