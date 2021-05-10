@@ -31,8 +31,10 @@
 #### here you can see a screenshot of the Mask-Phish
 <br>
 <p align="center">
-<img width="65.0%" src="IMG_20210510_231544.jpg"/> 
+<img width="90.0%" src="IMG_20210510_231544.jpg"/> 
 </p>
+---
+## Report bugs
 
 ###### By mishakorzhik: Report bug: misakorzik528@gmail.com
 
