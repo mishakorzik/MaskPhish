@@ -6,11 +6,13 @@ url_checker() {
         fi
     fi
 }
-toilet -F gay MaskPhish
-echo ""
-echo "          ###########################"
-echo "          # Developer: mishakorzhik #"
-echo "          ###########################"
+
+echo "       ╭━╮╭━╮╱╱╱╱╱╭╮╱╭━━━┳╮╱╱╱╱╱╭╮"
+echo "       ┃╭╮╭╮┣━━┳━━┫┃╭┫╰━╯┃╰━┳┳━━┫╰━╮"
+echo "       ┃┃┃┃┃┃╭╮┃━━┫╰╯┫╭━━┫╭╮┣┫━━┫╭╮┃"
+echo "       ┃┃┃┃┃┃╭╮┣━━┃╭╮┫┃╱╱┃┃┃┃┣━━┃┃┃┃"
+echo "       ╰╯╰╯╰┻╯╰┻━━┻╯╰┻╯╱╱╰╯╰┻┻━━┻╯╰╯ v1.3"
+echo "            Developer: mishakorzhik
 echo ""
 echo -n "Paste Phishing URL here (with http or https): "
 read phish
