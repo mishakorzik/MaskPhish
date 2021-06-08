@@ -14,7 +14,7 @@ echo "       ┃┃┃┃┃┃╭╮┣━━┃╭╮┫┃╱╱┃┃┃┃�
 echo "       ╰╯╰╯╰┻╯╰┻━━┻╯╰┻╯╱╱╰╯╰┻┻━━┻╯╰╯ v1.3"
 echo "            Developer: mishakorzhik
 echo ""
-echo -n "Paste Phishing URL here (with http or https): "
+echo -n "Paste Phishing URL here with http or https: "
 read phish
 url_checker $phish
 sleep 1
