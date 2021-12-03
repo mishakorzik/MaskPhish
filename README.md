@@ -37,7 +37,7 @@
 ---
 ## Report bugs
 
-###### By mishakorzhik: Report bug: miguardzecurity@gmail.com
+###### By mishakorzhik: Report bug: developer.mishakorzhik@gmail.com
 
 --- 
 ## Find me on:
