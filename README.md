@@ -38,13 +38,3 @@
 ## Report bugs
 
 ###### By mishakorzhik: Report bug: developer.mishakorzhik@gmail.com
-
---- 
-## Find me on:
-
-#### Tranks for read my site.
-
-<img width="20.0%" src="IMG_20210510_233105.png"/> <img width="20.0%" src="1620678554143.png"/> 
-
-
-
